@@ -330,7 +330,6 @@ Enterprise-Endpoint-Asset-Management/
 │   ├── Network_Report.csv
 │   └── Deployment_Report.txt
 ├── diagrams/
-│   └── lab-topology.png
 ├── scripts/
 │   ├── hardware-inventory.ps1
 │   ├── software-inventory.ps1
