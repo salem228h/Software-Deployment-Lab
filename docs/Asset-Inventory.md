@@ -1,27 +1,20 @@
-# Asset Inventory
+# Software Inventory
 
-## Computer Information
+## Installed Software
 
-| Item | Value |
-|-------|--------|
-| Computer Name | WS-001 |
-| Operating System | Windows 11 Enterprise |
-| Domain | WORKGROUP |
-| Hypervisor | VirtualBox |
+| Software | Status |
+|----------|--------|
+| Google Chrome | Installed |
+| 7-Zip | Installed |
 
 ---
 
-## Hardware Inventory
+## Windows Components
 
-- CPU
-- RAM
-- Disk
-- BIOS
-- Motherboard
-- Network Adapter
+- Windows Features Reviewed
+- Installed Packages Verified
+- Windows Services Reviewed
 
 ---
 
-## Inventory Status
-
-Completed Successfully
+Inventory Completed Successfully
