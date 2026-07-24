@@ -1,1 +1,16 @@
+# Software Deployment Report
 
+Computer Name: WS-001
+Date: 2026-07-23
+
+## Installed Applications:
+- Google Chrome
+- Mozilla Firefox
+- 7-Zip
+- Adobe Acrobat Reader
+
+## Status:
+All applications installed successfully.
+
+## Verified by:
+Mohammad Salem Hassani
