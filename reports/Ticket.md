@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎫 IT Support Ticket Portfolio
+# 🎫 Enterprise-Endpoint-Asset-Management
 
 **Real-world IT support scenarios · Documented solutions · Enterprise environment**
 
